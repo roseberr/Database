@@ -1,5 +1,5 @@
 # Database
-database RDBS and b+tree 
+database RDBS 여러 SQL문 작성과 b+tree C++로 전체 구현 
 
 
 ## B+ Tree ReadMe
